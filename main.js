@@ -111,8 +111,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'project2-title': 'E-commerce Website',
             'project2-desc': 'An E-commerce site with a professional database system and an easy, user-friendly interface.',
             'project2-details': 'For Details',
-            'project3-title': 'E-commerce Website',
-            'project3-desc': 'An E-commerce site with a professional database system and an easy, user-friendly interface.',
+            'project3-title': 'Online Meeting Site',
+            'project3-desc': 'An online meeting site where professional video calls can be made, dates can be set, and new tasks and groups can be assigned to specific people.',
             'project3-details': 'For Details',
             // Contact Section
             'contact-subtitle': 'If You Want to Reach Me',
@@ -469,5 +469,6 @@ document.addEventListener('DOMContentLoaded', () => {
             successMessage.remove();
         }, 4000);
     });
+
 
 });
