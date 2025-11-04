@@ -12,16 +12,26 @@ This project is a fully responsive, modern personal portfolio website built usin
 
 ## 🖥️ Ekran Görüntüleri / Screenshots
 
-*(Buraya hazırladığınız ekran görüntülerini (SS) ekleyebilirsiniz.)*
-
 ### Açık Mod (Light Mode)
-![Açık Mod Ekran Görüntüsü](DESTEK-DOSYALARI/ss-light.png)
+![Açık Mod Ekran Görüntüsü](screenshots/beyaz-tema-anaekran.png)
+![Açık Mod Ekran Görüntüsü](screenshots/beyaz-tema-benkimim.png)
+![Açık Mod Ekran Görüntüsü](screenshots/beyaz-tema-yetenekler.png)
+![Açık Mod Ekran Görüntüsü](screenshots/beyaz-tema-projeler.png)
+![Açık Mod Ekran Görüntüsü](screenshots/beyaz-tema-banaulas.png)
+
 
 ### Koyu Mod (Dark Mode)
-![Koyu Mod Ekran Görüntüsü](DESTEK-DOSYALARI/ss-dark.png)
+![Koyu Mod Ekran Görüntüsü](screenshots/koyu-tema-anaekran.png)
+![Koyu Mod Ekran Görüntüsü](screenshots/koyu-tema-benkimim.png)
+![Koyu Mod Ekran Görüntüsü](screenshots/koyu-tema-yetenekler.png)
+![Koyu Mod Ekran Görüntüsü](screenshots/koyu-tema-projeler.png)
+![Koyu Mod Ekran Görüntüsü](screenshots/koyu-tema-banaulas.png)
 
 ### Mobil Görünüm (Responsive Design)
-![Mobil Görünüm](DESTEK-DOSYALARI/ss-mobile.png)
+![Mobil Görünüm](screenshots/tablet.png)
+--
+![Mobil Görünüm](screenshots/telefon.png)
+--
 
 ---
 
